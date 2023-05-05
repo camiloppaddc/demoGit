@@ -1,0 +1,8 @@
+Hello there!
+
+<<<<<<< HEAD
+Hello from Thiago
+=======
+
+Hello From Jiarui!
+>>>>>>> 7b85650c6e3aeb5c50a423a167bf952adf441f59
